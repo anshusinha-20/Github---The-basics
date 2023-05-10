@@ -3,3 +3,5 @@ Mac
 macbook air
 macbook pro 13"
 macbook pro 14"
+macbook pro 16"
+mac mini 
